@@ -6,24 +6,20 @@ Build several pages using Google fonts, setup a Modular Type Scale.
 
 ## Outputs
 
-Each student will add 3 pages testing.
+Each student will create three web pages and link to them from their home page. To create a new file, use file save as. Commit all pages to your repo.
 
 1. Add one font
-2. Add two fonts. One display font for headers. And a different font for text. 
+2. Add two fonts. One font should be a display font for headers. Use a different font for text. 
+3. Extra credit. Experiment with modular scales.
 
 
 ## Links
 
 ### Sites
-- [Google Fonts](https://gridbyexample.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [Modular Scale](https://www.modularscale.com/)
 
 ## Games
 
 - [Kerning Type](https://type.method.ac/)
  
-### Apps
-- [Atom.io](https://atom.io/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-
